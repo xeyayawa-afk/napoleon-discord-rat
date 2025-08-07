@@ -84,11 +84,11 @@ def Clear():
     except:
         pass
 
-website = "https://fakecrime.bio/up40"
+website = "DISCORD.GG/POSSE"
 color_embed = 0x000000
-username_embed = 'Napoleon'
+username_embed = '808080808'
 avatar_embed = 'https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source&h=210'
-footer_text = f"Napoleon"
+footer_text = f".GG/PROSPECT"
 footer_embed = {
         "text": footer_text,
         "icon_url": avatar_embed,
@@ -2623,4 +2623,5 @@ def main_menu():
             time.sleep(2)
 
 if __name__ == '__main__':
+
     main_menu()
